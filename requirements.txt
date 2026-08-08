@@ -1,0 +1,27 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+joblib
+jupyter
+
+requirements.txt
+
+california-housing-price-prediction/
+│
+├── README.md
+├── california_housing_prediction.ipynb
+├── requirements.txt
+├── .gitignore
+│
+├── models/
+│   └── linear_regression_model.pkl
+│
+├── images/
+│   ├── correlation_heatmap.png
+│   ├── actual_vs_predicted.png
+│   └── residual_plot.png
+│
+└── src/
+    └── train.py
