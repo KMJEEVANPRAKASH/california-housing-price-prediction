@@ -1,0 +1,4 @@
+ images/
+   ├── correlation_heatmap.png
+   ├── actual_vs_predicted.png
+   └── residual_plot.png
