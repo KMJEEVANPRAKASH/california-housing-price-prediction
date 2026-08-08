@@ -1,4 +1,3 @@
-# california-housing-price-prediction
 # California Housing Price Prediction
 
 A Machine Learning project that predicts California house values
